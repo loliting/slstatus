@@ -1,2 +1,2 @@
 # slstatus
-suckless status monitor
+My fork of suckless status monitor
